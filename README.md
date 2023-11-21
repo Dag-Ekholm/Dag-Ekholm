@@ -1,4 +1,4 @@
-I have just started using GitHub. Biologist, study Python programming.
+I have just started using GitHub. Biologist, studying Python programming.
 -
 
 <!---
